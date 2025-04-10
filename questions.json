@@ -1,0 +1,231 @@
+{
+  "heading": "Estimation And Their Product",
+  "topics": [
+    {
+      "heading": "Estimation And Their Product",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What is 5,768 rounded to the nearest ten?",
+          "options": [
+            { "text": "5,760" },
+            { "text": "5,770" },
+            { "text": "5,780" },
+            { "text": "5,790" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "What is 3,154 rounded to the nearest hundred?",
+          "options": [
+            { "text": "3,100" },
+            { "text": "3,150" },
+            { "text": "3,200" },
+            { "text": "3,300" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "What is 9,432 rounded to the nearest thousand?",
+          "options": [
+            { "text": "9,000" },
+            { "text": "9,400" },
+            { "text": "9,500" },
+            { "text": "10,000" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 4,
+          "question": "Identify the number that is not rounded correctly to the nearest hundred.",
+          "options": [
+            { "text": "4,357 → 4,400" },
+            { "text": "8,642 → 8,600" },
+            { "text": "6,278 → 6,300" },
+            { "text": "9,845 → 9,900" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 5,
+          "question": "Estimate the sum by rounding each number to the nearest thousand: 6,125 + 4,783",
+          "options": [
+            { "text": "9,000" },
+            { "text": "10,000" },
+            { "text": "11,000" },
+            { "text": "12,000" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 6,
+          "question": "Estimate the sum by rounding each number to the nearest hundred: 5,276 + 3,867",
+          "options": [
+            { "text": "9,000" },
+            { "text": "9,100" },
+            { "text": "9,200" },
+            { "text": "9,300" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 7,
+          "question": "Estimate the difference by rounding each number to the nearest hundred: 7,923 - 2,489",
+          "options": [
+            { "text": "5,400" },
+            { "text": "5,500" },
+            { "text": "5,600" },
+            { "text": "5,700" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "Mia adds two numbers and gets a sum that rounds to 6,000 when rounded to the nearest 1,000. Which of these could be her numbers?",
+          "options": [
+            { "text": "3,100 and 2,900" },
+            { "text": "3,500 and 3,100" },
+            { "text": "2,800 and 3,800" },
+            { "text": "3,900 and 3,000" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 9,
+          "question": "Ryan subtracts two numbers and gets a difference that rounds to 400 when rounded to the nearest 100. Which could be his numbers?",
+          "options": [
+            { "text": "854 and 400" },
+            { "text": "950 and 522" },
+            { "text": "1,023 and 712" },
+            { "text": "700 and 399" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 10,
+          "question": "A store has 2,768 pencils in stock. They sell 1,389 pencils. About how many are left? (Round to nearest hundred)",
+          "options": [
+            { "text": "1,000" },
+            { "text": "1,200" },
+            { "text": "1,400" },
+            { "text": "1,500" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 11,
+          "question": "Sarah adds two numbers, and the sum rounds to 100 when rounded to the nearest 10. Which pair of numbers could she have added?",
+          "options": [
+            { "text": "43 and 61" },
+            { "text": "58 and 52" },
+            { "text": "39 and 49" },
+            { "text": "45 and 46" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 12,
+          "question": "Olivia subtracts two numbers and gets a difference that rounds to 300 when rounded to the nearest 100. Which could be her numbers?",
+          "options": [
+            { "text": "865 and 422" },
+            { "text": "890 and 490" },
+            { "text": "1,245 and 890" },
+            { "text": "1,030 and 731" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 13,
+          "question": "What is the estimated product of 53 × 68? Round both numbers to the nearest ten.",
+          "options": [
+            { "text": "2,500" },
+            { "text": "3,000" },
+            { "text": "3,500" },
+            { "text": "4,000" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 14,
+          "question": "What is the estimated product of 127 × 84? Round 127 to the nearest hundred and 84 to the nearest ten.",
+          "options": [
+            { "text": "8,000" },
+            { "text": "10,000" },
+            { "text": "12,000" },
+            { "text": "15,000" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 15,
+          "question": "A car factory produces 1,387 cars in a month. Estimate how many cars they produce in half a year by rounding 2,387 to the nearest thousand.",
+          "options": [
+            { "text": "4,000" },
+            { "text": "6,000" },
+            { "text": "8,000" },
+            { "text": "10,000" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "A store sells 345 packs of juice every day. About how many packs are sold in 29 days?",
+          "options": [
+            { "text": "10,000" },
+            { "text": "12,000" },
+            { "text": "10,500" },
+            { "text": "12,500" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 17,
+          "question": "A farmer collects 768 oranges from each tree. He has 94 trees. Estimate the total number of oranges he collects.",
+          "options": [
+            { "text": "60,000" },
+            { "text": "65,000" },
+            { "text": "72,000" },
+            { "text": "75,000" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 18,
+          "question": "Emma thinks of a number. She multiplies it by 3 and rounds the result to the nearest 10. The answer is 30. What number could Emma have started with?",
+          "options": [
+            { "text": "7" },
+            { "text": "8" },
+            { "text": "9" },
+            { "text": "12" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 19,
+          "question": "Liam picks a number, multiplies it by 5, and rounds the answer to the nearest 10. The result is 40. What number could Liam have chosen?",
+          "options": [
+            { "text": "6" },
+            { "text": "7" },
+            { "text": "5" },
+            { "text": "9" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "Sophie thinks of a number, multiplies it by 6, and rounds the answer to the nearest 10. The result is 60. What number could Sophie have started with?A",
+          "options": [
+            { "text": "9" },
+            { "text": "10" },
+            { "text": "11" },
+            { "text": "Both B and C" }
+          ],
+          "answer": 3
+        }
+      ]
+      
+    }
+  ]
+}
