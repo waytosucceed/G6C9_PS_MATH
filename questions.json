@@ -160,7 +160,7 @@
         },
         {
           "questionNo": 15,
-          "question": "A car factory produces 1,387 cars in a month. Estimate how many cars they produce in half a year by rounding 2,387 to the nearest thousand.",
+          "question": "A car factory produces 1,387 cars in a month. Estimate how many cars they produce in half a year by rounding 1,387 to the nearest thousand.",
           "options": [
             { "text": "4,000" },
             { "text": "6,000" },
@@ -222,7 +222,7 @@
             { "text": "11" },
             { "text": "Both B and C" }
           ],
-          "answer": 3
+          "answer": 1
         }
       ]
       
